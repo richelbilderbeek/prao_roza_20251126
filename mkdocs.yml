@@ -10,6 +10,7 @@ nav:
   - report.md
   - reflection.md
   - reflection_from_supervisor.md
+  - tips.md
 
 theme:
   name: material
