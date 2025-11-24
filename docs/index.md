@@ -58,5 +58,5 @@ To be discussed
 > Don't ask the stupid AI, instead ask the smart human who is next to you
 > at almost all the time: he knows better than AI trust me ;)
 
-[Max](https://github.com/richelbilderbeek/prao_max_20251132)
+[Max](https://github.com/richelbilderbeek/prao_max_20251121)
 (with some spelling adaptions)
