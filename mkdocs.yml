@@ -12,6 +12,7 @@ nav:
   - reflection_from_supervisor.md
 
 theme:
+  name: material
   logo: images/r_written.svg
 
   features:
