@@ -12,12 +12,7 @@ nav:
   - reflection_from_supervisor.md
 
 theme:
-  name: material
-  font:
-    text: Lato
-    code: JetBrains Mono
-  palette:
-    primary: indigo
+  logo: images/r_written.svg
 
   features:
     - toc.integrate
