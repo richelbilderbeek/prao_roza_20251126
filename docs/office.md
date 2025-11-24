@@ -19,7 +19,8 @@ or take the stairs, to floor 4.
 
 At the fourth floor, go past the toilets. It's the first door at the left.
 
-![BMC fourth floor route](images/bmc_floor_4_with_route.png)
+![BMC fourth floor route](images/bmc_floor_4_with_route_annotated.png)
 
 > Go past the toilets. It's the first door at the left.
+> If you are at the ping-pong table, you've gone too far.
 
