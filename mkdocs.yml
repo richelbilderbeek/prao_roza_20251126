@@ -7,11 +7,11 @@ nav:
   - location.md
   - office.md
   - schedule.md
-  - faq.md
+  - FAQ: faq.md
   - report.md
   - reflection.md
   - reflection_from_supervisor.md
-  - tips.md
+  - Tips: tips.md
   - contact_me.md
 
 theme:
