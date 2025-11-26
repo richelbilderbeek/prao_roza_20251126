@@ -7,6 +7,14 @@ some cases, can be reused in other or future classes, which helps save teachersâ
 
 - `[2]`: i also think this is useful because it shows precentage of the students opinion and it also showed the aftermath as if somebody viewed the recording after, they said " 6 months after the recording no student rewatched the recording for over a minute" and it told us that recording is no big of a use in classes even though 100% of the student described it as "useful" and in this article they tell us straight up they do not support the routine of recording classes
 
+Reference|Findings
+---------|----------------------
+`[1]`    |For Roza
+`[2]`    |100% (123 out of 123 students) liked recordings
+`[2]`    |0% (123 out of 123 students) actually watched the recordings
+
+
+
  Reference|Recommendation
  ---------|----------------------
  `[1]`    |Against live recording
