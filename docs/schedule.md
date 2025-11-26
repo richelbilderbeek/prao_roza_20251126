@@ -13,12 +13,14 @@ Start|What
 10:15|Work on project
 11:00|Break
 11:15|Work on project
-12:00|Lunch
-12:45|Work on project
-13:45|Break
-14:00|Work on project
-14:45|Break
-15:00|Work on project, finalize [report](report.md)
-15:25|write down [reflection](reflection.md) and [reflection from supervisor](reflection_from_supervisor.md)
-15:35|Discuss [reflection](reflection.md)
-15:45|Done
+12:00|Break
+12:15|Work on project
+13:00|Break
+13:15|Work on project
+14:00|Break
+14:15|Work on project
+15:00|Break
+15:15|Work on project, finalize [report](report.md)
+15:30|write down [reflection](reflection.md) and [reflection from supervisor](reflection_from_supervisor.md)
+15:45|Discuss [reflection](reflection.md)
+16:00|Done
