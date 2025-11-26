@@ -7,6 +7,9 @@ some cases, can be reused in other or future classes, which helps save teachersâ
 
 - `[2]`: i also think this is useful because it shows precentage of the students opinion and it also showed the aftermath as if somebody viewed the recording after, they said " 6 months after the recording no student rewatched the recording for over a minute" and it told us that recording is no big of a use in classes even though 100% of the student described it as "useful" and in this article they tell us straight up they do not support the routine of recording classes
 
+- ##conclusions
+- i couldnt really find a litterature about recordings in online classes and that tells us that they havent done a reasearch on that yet but they have reasearched about recordings in a physical class where the student are there in real time.All of the articles i read about is leaning  more towards disagareements about recordings in a class with the students are there in real time and does not support the routine whilst there is good arguments about having recordings in a online class but there is also bad arguements but more on the idea that is a good thing but sadly there is no reasearch done on that
+
 Reference|Findings
 ---------|----------------------
 `[1]`    |For Roza
