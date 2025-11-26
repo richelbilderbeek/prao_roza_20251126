@@ -9,4 +9,6 @@ Possible projects:
 - Science and teaching: what practical Open Science courses exist?
 - Programming: collect all YouTube videos in my courses
 - Programming: fix SCoRe user doc
-- Crop YouTube videos
+- Easy: crop YouTube videos
+
+-->
