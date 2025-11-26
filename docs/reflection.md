@@ -16,11 +16,11 @@ well i was very focused and didnt have any distractions
 
 
 ## What could be improved?
-i could be more on time and maybe remember what to bring
+i could be more on time and maybe remember what to bring what i need
 
 
 ## What did your supervisor do well?
-he asnwered my qusteions well and helped a lot.
+he asnwered my questions well and helped a lot.
 
 
 ## How can your supervisor be improved?
