@@ -12,7 +12,7 @@ i did a litterature study
 
 
 ## What did you do well?
-well i was very focused and didnt have any distactions
+well i was very focused and didnt have any distractions
 
 
 ## What could be improved?
